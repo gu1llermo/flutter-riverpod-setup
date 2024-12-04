@@ -43,4 +43,4 @@ The extension automatically updates `analysis_options.yaml` to enable custom lin
 MIT License
 
 ## Author
-Guillermo
+GindCode

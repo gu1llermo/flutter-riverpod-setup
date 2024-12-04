@@ -2,15 +2,17 @@
   "name": "flutter-riverpod-setup",
   "displayName": "flutter-riverpod-setup",
   "description": "Quickly set up Riverpod packages and configuration in a Flutter project",
+  "icon": "images/logo.png",
   "version": "0.0.1",
-  "publisher": "gu1llermo",
+  "publisher": "GindCode",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
